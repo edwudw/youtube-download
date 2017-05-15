@@ -2,8 +2,7 @@
 
 This program allows users to download youtube videos in both video and audio form. It makes use of the youtube-dl command line tool, and is essentially a bad GUI version of it.
 
-* Version
-Version: 1.0
+* Version: 1.0
 
 ### How do I get set up? ###
 
