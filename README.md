@@ -12,4 +12,5 @@ Note that after you press Download, the program will NOT RESPOND. You can look a
 ### Contributors ###
 
 Youtube-dl was used in this program. This program is in the public domain. https://github.com/rg3/youtube-dl
+
 FFMPEG was used in this program. This is under the GNU Public License 2.0. https://www.ffmpeg.org/
